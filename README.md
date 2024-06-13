@@ -16,7 +16,7 @@ Just run:
 
 ```bash
 #sudo su
-wget https://raw.githubusercontent.com/erickythierry/ipv6-multiple-proxy-server/master/ipv6-proxy-server.sh && chmod +x ipv6-proxy-server.sh
+wget https://raw.githubusercontent.com/samuelrac/ipv6-multiple-proxy-server/master/ipv6-proxy-server.sh && chmod +x ipv6-proxy-server.sh
 ./ipv6-proxy-server.sh -u user -p pass --start-port 30000
 ```
 
